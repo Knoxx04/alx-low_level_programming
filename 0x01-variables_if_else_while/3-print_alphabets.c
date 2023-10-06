@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Description: Print the alphabet in lowercase then in uppercase followed by a newline
+ * Description: Print alphabet in lowercase then uppercase then newline
  *
  * Return: Always 0 (success)
  */
@@ -23,7 +23,6 @@ int main(void)
 	{
 		putchar(start_c);
 	}
-	
 	putchar('\n');
 	
 	return (0);
