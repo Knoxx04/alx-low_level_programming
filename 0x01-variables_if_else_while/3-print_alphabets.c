@@ -24,6 +24,5 @@ int main(void)
 		putchar(start_c);
 	}
 	putchar('\n');
-	
 	return (0);
 }
