@@ -13,7 +13,7 @@ int main(void)
 
 	for (; start <= end; start++)
 	{
-		if ((char != 'q') && (char != 'e'))
+		if (start != e && start != e)
 		{
 			putchar(start);
 		}
