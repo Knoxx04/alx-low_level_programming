@@ -8,9 +8,9 @@
  */
 int main(void)
 {
-	char min = 97;
+	char min = 'a';
 
-		while (min <= 122)
+		while (min <= 'z')
 		{
 			min++;
 		}
