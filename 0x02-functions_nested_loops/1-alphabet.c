@@ -1,11 +1,9 @@
 #include "main.h"
 /**
- *
- *
- * print_alphabet- Prints alphabet in lowercasem a to z followed by a newline
- *
- * Return: void
- */
+  * print_alphabet - Make the alphabet
+  *
+  * Return: void
+  */
 void print_alphabet(void)
 {
 	char min = 'a';
