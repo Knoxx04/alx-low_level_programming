@@ -12,8 +12,8 @@ int main(void)
 
 		while (min <= 122)
 		{
-			min++
-		};
+			min++;
+		}
 	_putchar('\n');
 
 		return (0);
