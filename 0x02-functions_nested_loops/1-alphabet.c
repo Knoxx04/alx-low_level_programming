@@ -8,12 +8,12 @@
  */
 int main(void)
 {
-	char min = 97
+	char min = 97;
 
 		while (min <= 122)
 		{
 			min++
-		}
+		};
 	_putchar('\n');
 
 		return (0);
