@@ -12,6 +12,7 @@ int main(void)
 
 		while (min <= 'z')
 		{
+			_putchar(min);
 			min++;
 		}
 	_putchar('\n');
